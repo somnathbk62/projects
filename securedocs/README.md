@@ -47,7 +47,7 @@ Secure Docs is a web-based document management system tailored for educational i
 
 ## 📁 Project Structure
 
-````plaintext
+```plaintext
 secure-docs-updated/
 ├── public/                  # Static files (HTML, icons, etc.)
 ├── src/
@@ -63,6 +63,7 @@ secure-docs-updated/
 ├── resetAdminPassword.js    # Script to reset admin credentials
 ├── package.json             # Dependencies and build scripts
 └── README.md                # Project documentation
+```
 
 ## 🚀 Getting Started
 
@@ -77,17 +78,18 @@ secure-docs-updated/
 
 **Clone the repository:**
 
-```bash
 git clone <your-repo-url>
 cd secure-docs-updated
 
-###  Install dependencies:
-   npm install
+### Install dependencies:
 
-###  Start the development server:
-   npm start
-   Open your browser and go to:
-   http://localhost:3000
+npm install
+
+### Start the development server:
+
+npm start
+Open your browser and go to:
+http://localhost:3000
 
 ###🔧 Firebase Setup
 Update the Firebase configuration in src/Firebase.js
@@ -102,29 +104,29 @@ Enable the following in your Firebase project:
 
 👨‍💼 Admin User Setup
 ###Create an initial admin:
-   node createAdmin.js
+node createAdmin.js
 
 ###Update admin details:
-    node updateAdmin.js
+node updateAdmin.js
 
 ###Reset admin password:
-    node resetAdminPassword.js
+node resetAdminPassword.js
 
 👩‍💼 Usage
 ###Students:
-   .Register/login using email and password
-   .View profile, certificates, ID cards
-   .Submit document or correction requests
+.Register/login using email and password
+.View profile, certificates, ID cards
+.Submit document or correction requests
 
 ###Admins:
-   .Login via /adminlogin
-   .Manage students, certificates, ID cards, and requests
+.Login via /adminlogin
+.Manage students, certificates, ID cards, and requests
 
 📜 Scripts
-Command	                    Description
-npm start	                Run the app in development mode
-npm run build	            Build the app for production
-npm test	                Run unit tests (if available)
+Command Description
+npm start Run the app in development mode
+npm run build Build the app for production
+npm test Run unit tests (if available)
 
 📂 Folder Highlights
 src/Admin/ – Admin dashboard and document management
@@ -141,7 +143,6 @@ src/components/ProtectedRoute.js – Role-based route protection
 This project is created for educational use. You can modify the code as needed to suit your use case.
 
 Developed with ❤️ using React and Firebase.
-````
 
 ---
 
@@ -153,45 +154,57 @@ Developed with ❤️ using React and Firebase.
 _Student login interface with email and password authentication_
 
 ![Admin Login](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/admin-login.png)
-_Administrator login page with secure access control_
+
+### _Administrator login page with secure access control_
 
 ---
 
 ### 👨‍🎓 Student Dashboard & Features
 
 ![Student Dashboard](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/student-dashboard.png)
-_Main student dashboard showing navigation and overview_
+
+### _Main student dashboard showing navigation and overview_
 
 ![Student Profile](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/student-profile.png)
-_Student profile page with personal and academic information_
+
+### _Student profile page with personal and academic information_
 
 ![Student Certificates](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/student-certificates.png)
-_Student view of issued academic certificates_
+
+### _Student view of issued academic certificates_
 
 ![Student ID Card](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/student-id-card.png)
-_Digital student ID card display_
+
+### _Digital student ID card display_
 
 ![Student Requests](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/student-requests.png)
-_Student request management and tracking_
+
+### _Student request management and tracking_
 
 ![Add Request](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/add-request.png)
-_Form for submitting new document requests_
+
+### _Form for submitting new document requests_
 
 ---
 
 ### 🛡️ Administrator Management
 
 ![Admin Dashboard](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/admin-dashboard.png)
-_Administrator dashboard with analytics and overview_
+
+### _Administrator dashboard with analytics and overview_
 
 ![Student Management](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/student-management.png)
-_Admin interface for managing student profiles_
+
+### _Admin interface for managing student profiles_
 
 ![Certificate Management](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/certificate-management.png)
-_Administrator certificate issuance and management_
+
+### _Administrator certificate issuance and management_
 
 ![ID Card Management](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/id-card-management.png)
-_Admin interface for ID card management_
+
+### _Admin interface for ID card management_
 
 ![Request Management](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/request-management.png)
-_Administrator request approval and management system_
+
+### _Administrator request approval and management system_
