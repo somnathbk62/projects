@@ -143,47 +143,54 @@ This project is created for educational use. You can modify the code as needed t
 Developed with ❤️ using React and Firebase.
 
 ---
-
 ## 📸 Screenshots
 
 ### 🔐 Authentication Pages
-![Login Page](./screenshots/login-page.png)
+
+![Login Page](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/login-page.png)
 *Student login interface with email and password authentication*
 
-![Admin Login](./screenshots/admin-login.png)
+![Admin Login](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/admin-login.png)
 *Administrator login page with secure access control*
 
+---
+
 ### 👨‍🎓 Student Dashboard & Features
-![Student Dashboard](./screenshots/student-dashboard.png)
+
+![Student Dashboard](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/student-dashboard.png)
 *Main student dashboard showing navigation and overview*
 
-![Student Profile](./screenshots/student-profile.png)
+![Student Profile](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/student-profile.png)
 *Student profile page with personal and academic information*
 
-![Student Certificates](./screenshots/student-certificates.png)
+![Student Certificates](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/student-certificates.png)
 *Student view of issued academic certificates*
 
-![Student ID Card](./screenshots/student-id-card.png)
+![Student ID Card](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/student-id-card.png)
 *Digital student ID card display*
 
-![Student Requests](./screenshots/student-requests.png)
+![Student Requests](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/student-requests.png)
 *Student request management and tracking*
 
-![Add Request](./screenshots/add-request.png)
+![Add Request](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/add-request.png)
 *Form for submitting new document requests*
 
+---
+
 ### 🛡️ Administrator Management
-![Admin Dashboard](./screenshots/admin-dashboard.png)
+
+![Admin Dashboard](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/admin-dashboard.png)
 *Administrator dashboard with analytics and overview*
 
-![Student Management](./screenshots/student-management.png)
+![Student Management](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/student-management.png)
 *Admin interface for managing student profiles*
 
-![Certificate Management](./screenshots/certificate-management.png)
+![Certificate Management](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/certificate-management.png)
 *Administrator certificate issuance and management*
 
-![ID Card Management](./screenshots/id-card-management.png)
+![ID Card Management](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/id-card-management.png)
 *Admin interface for ID card management*
 
-![Request Management](./screenshots/request-management.png)
+![Request Management](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/request-management.png)
 *Administrator request approval and management system*
+````
