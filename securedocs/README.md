@@ -141,56 +141,57 @@ src/components/ProtectedRoute.js – Role-based route protection
 This project is created for educational use. You can modify the code as needed to suit your use case.
 
 Developed with ❤️ using React and Firebase.
+````
 
 ---
+
 ## 📸 Screenshots
 
 ### 🔐 Authentication Pages
 
 ![Login Page](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/login-page.png)
-*Student login interface with email and password authentication*
+_Student login interface with email and password authentication_
 
 ![Admin Login](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/admin-login.png)
-*Administrator login page with secure access control*
+_Administrator login page with secure access control_
 
 ---
 
 ### 👨‍🎓 Student Dashboard & Features
 
 ![Student Dashboard](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/student-dashboard.png)
-*Main student dashboard showing navigation and overview*
+_Main student dashboard showing navigation and overview_
 
 ![Student Profile](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/student-profile.png)
-*Student profile page with personal and academic information*
+_Student profile page with personal and academic information_
 
 ![Student Certificates](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/student-certificates.png)
-*Student view of issued academic certificates*
+_Student view of issued academic certificates_
 
 ![Student ID Card](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/student-id-card.png)
-*Digital student ID card display*
+_Digital student ID card display_
 
 ![Student Requests](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/student-requests.png)
-*Student request management and tracking*
+_Student request management and tracking_
 
 ![Add Request](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/add-request.png)
-*Form for submitting new document requests*
+_Form for submitting new document requests_
 
 ---
 
 ### 🛡️ Administrator Management
 
 ![Admin Dashboard](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/admin-dashboard.png)
-*Administrator dashboard with analytics and overview*
+_Administrator dashboard with analytics and overview_
 
 ![Student Management](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/student-management.png)
-*Admin interface for managing student profiles*
+_Admin interface for managing student profiles_
 
 ![Certificate Management](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/certificate-management.png)
-*Administrator certificate issuance and management*
+_Administrator certificate issuance and management_
 
 ![ID Card Management](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/id-card-management.png)
-*Admin interface for ID card management*
+_Admin interface for ID card management_
 
 ![Request Management](https://raw.githubusercontent.com/somnathbk62/projects/main/securedocs/screenshots/request-management.png)
-*Administrator request approval and management system*
-````
+_Administrator request approval and management system_
