@@ -2,9 +2,7 @@
 
 Secure Docs is a web-based document management system tailored for educational institutions. It empowers **administrators** to manage student data, ID cards, and certificates, while **students** can securely view and request their personal academic documents.
 
-Built with **React** and **Firebase**, the system ensures real-time updates, seamless authentication, and role-based access control.
-
----
+## Built with **React** and **Firebase**, the system ensures real-time updates, seamless authentication, and role-based access control.
 
 ## 🔗 Table of Contents
 
@@ -22,6 +20,7 @@ Built with **React** and **Firebase**, the system ensures real-time updates, sea
 ## ✨ Features
 
 ### 👨‍🎓 For Students
+
 - 🔐 **Login & Authentication** – Secure sign-in using email/password.
 - 📄 **Profile Management** – View personal and academic information.
 - 🪪 **ID Card Management** – Access digital student ID cards.
@@ -29,6 +28,7 @@ Built with **React** and **Firebase**, the system ensures real-time updates, sea
 - 📨 **Request System** – Submit and track document requests or corrections.
 
 ### 🛡️ For Administrators
+
 - 📊 **Admin Dashboard** – View analytics on students, requests, and documents.
 - 👥 **Student Management** – Add, update, or deactivate student profiles.
 - 🪪 **ID Card Management** – Issue or revoke student ID cards.
@@ -40,14 +40,14 @@ Built with **React** and **Firebase**, the system ensures real-time updates, sea
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React, React Router, Bootstrap, React Toastify, React Spinners  
+- **Frontend**: React, React Router, Bootstrap, React Toastify, React Spinners
 - **Backend / Database**: Firebase (Authentication, Firestore, Storage)
 
 ---
 
 ## 📁 Project Structure
 
-```plaintext
+````plaintext
 secure-docs-updated/
 ├── public/                  # Static files (HTML, icons, etc.)
 ├── src/
@@ -138,8 +138,9 @@ src/context/AuthContext.js – Role management and auth handling
 src/components/ProtectedRoute.js – Role-based route protection
 
 🪪 License
-This project is created for educational use. You can modify the license as needed to suit your use case.
+This project is created for educational use. You can modify the code as needed to suit your use case.
 
 Developed with ❤️ using React and Firebase.
 ---
 
+````
