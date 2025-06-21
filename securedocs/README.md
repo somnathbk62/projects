@@ -141,6 +141,49 @@ src/components/ProtectedRoute.js – Role-based route protection
 This project is created for educational use. You can modify the code as needed to suit your use case.
 
 Developed with ❤️ using React and Firebase.
+
 ---
 
-````
+## 📸 Screenshots
+
+### 🔐 Authentication Pages
+![Login Page](./screenshots/login-page.png)
+*Student login interface with email and password authentication*
+
+![Admin Login](./screenshots/admin-login.png)
+*Administrator login page with secure access control*
+
+### 👨‍🎓 Student Dashboard & Features
+![Student Dashboard](./screenshots/student-dashboard.png)
+*Main student dashboard showing navigation and overview*
+
+![Student Profile](./screenshots/student-profile.png)
+*Student profile page with personal and academic information*
+
+![Student Certificates](./screenshots/student-certificates.png)
+*Student view of issued academic certificates*
+
+![Student ID Card](./screenshots/student-id-card.png)
+*Digital student ID card display*
+
+![Student Requests](./screenshots/student-requests.png)
+*Student request management and tracking*
+
+![Add Request](./screenshots/add-request.png)
+*Form for submitting new document requests*
+
+### 🛡️ Administrator Management
+![Admin Dashboard](./screenshots/admin-dashboard.png)
+*Administrator dashboard with analytics and overview*
+
+![Student Management](./screenshots/student-management.png)
+*Admin interface for managing student profiles*
+
+![Certificate Management](./screenshots/certificate-management.png)
+*Administrator certificate issuance and management*
+
+![ID Card Management](./screenshots/id-card-management.png)
+*Admin interface for ID card management*
+
+![Request Management](./screenshots/request-management.png)
+*Administrator request approval and management system*
